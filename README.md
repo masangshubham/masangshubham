@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://github.com/masangshubham/masangshubham/blob/main/shubham%20masang.png" width="100%">
+<img src="https://github.com/masangshubham/masangshubham/blob/main/shubham%20masang.png" >
