@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8" />
-    <title>Shubham's personal website</title>
+   <!-- <title>Shubham's personal website</title> -->
   </head>
   <body>
     <table cellspacing="20">
