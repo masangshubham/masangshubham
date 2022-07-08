@@ -27,9 +27,9 @@
       <li> The Complete Data Structures and Algorithms Course in Python <em> -Elshad Karimov </em> </li>
     </ul>
     <hr size="2" noshade="">
-    <h3>Skills</h3>
+   
   
-    <hr size="2" noshade="">
+    
 
   </body>
 </html>
