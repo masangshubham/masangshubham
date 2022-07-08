@@ -28,32 +28,7 @@
     </ul>
     <hr size="2" noshade="">
     <h3>Skills</h3>
-    <table cellspacing="10">
-      <tr>
-        <td>HTML </td>
-        <td>⭐⭐⭐⭐⭐</td>
-        <td>Swimming  </td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>CSS  </td>
-        <td>⭐⭐⭐⭐</td>
-        <td>Video Editting  </td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Javascript  </td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>C++  </td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Java  </td>
-        <td>⭐⭐⭐</td>
-      </tr>
-    </table>
+  
     <hr size="2" noshade="">
 
   </body>
