@@ -1,35 +1,22 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8" />
-   <!-- <title>Shubham's personal website</title> -->
-  </head>
-  <body>
-    <table cellspacing="20">
-      <tr>
-        <td><img src="IMG20220412122105-modified.png" alt="shubhams profile pic" width="200px"></td>
-        <td><h1>Shubham Deepak Masang</h1>
-          <p><em>Student at <strong> <a href="https://www.isquareit.edu.in/"> International Institute of Information Technology,Pune </a></strong></em></p>
-          <p><em>Department of Information Technology</em></p>
-          <p><em>Web Developer and Tech Enthusiast</em></p>
-          <br>
-          <p>I an a student at I2IT,Pune. I have keen interest in <strong> Web Development</strong> and<strong> Data Structures and Algorithms </strong> with an emphasis on <em>Graph Algorithms. </em>  </p>
-        </td>
-      </tr>
-    </table>
-    <hr size="2" noshade="">
-    <h3>Education and Courses</h3>
-    <ul>
-      <li>SCC     <strong> 90% </strong>  Don Bosco High School,Oras</li>
-      <li>HSC   <strong> 85% </strong>  Ideal Cologe of Science,Kankavli</li>
-      <li>IT ENGINEERING    <strong> persuing </strong>  International Institute of Information Technology,Pune </li>
-      <li>The Complete 2022 Web Development Bootcamp <em> -London App Brewery</em></li>
-      <li> The Complete Data Structures and Algorithms Course in Python <em> -Elshad Karimov </em> </li>
-    </ul>
-    <hr size="2" noshade="">
-   
-  
-    
+<h1 align="center">Hi 👋, I'm Shubham Masang</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-  </body>
-</html>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masangshubham&label=Profile%20views&color=0e75b6&style=flat" alt="masangshubham" /> </p>
+
+- 🌱 I’m currently learning **React.js and MongoDB**
+
+- 👨‍💻 All of my projects are available at [https://flourishing-moonbeam-1c7d42.netlify.app/](https://flourishing-moonbeam-1c7d42.netlify.app/)
+
+- 💬 Ask me about **Frontend, Node.js**
+
+- 📫 How to reach me **shubhammasang36@gmail.com**
+
+- 📄 My Resume [https://flourishing-moonbeam-1c7d42.netlify.app/ShubhamMasang.pdf](https://flourishing-moonbeam-1c7d42.netlify.app/ShubhamMasang.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubhammasang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhammasang" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
