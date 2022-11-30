@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://flourishing-moonbeam-1c7d42.netlify.app/](https://flourishing-moonbeam-1c7d42.netlify.app/)
+- 👨‍💻 Visit my portfolio website to connect with me [https://flourishing-moonbeam-1c7d42.netlify.app/](https://flourishing-moonbeam-1c7d42.netlify.app/)
 
 - 💬 Ask me about **Frontend, Node.js**
 
