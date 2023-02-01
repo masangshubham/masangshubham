@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js and MongoDB<br>👨‍💻 Visit my portfolio website to connect with me https://flourishing-moonbeam-1c7d42.netlify.app/<br>📫 How to reach me shubhammasang36@gmail.com<br>📄 My Resume https://flourishing-moonbeam-1c7d42.netlify.app/ShubhamMasang.pdf
+🌱 I’m currently learning React.js and MongoDB<br>👨‍💻 Visit my portfolio website to connect with me [Portfolio](https://shubhammasang.netlify.app/)<br>📫 How to reach me shubhammasang36@gmail.com<br>📄 [My Resume](https://shubhammasang.netlify.app/Shubhammasang.pdf)
 
 
 ## 🌐 Socials:
